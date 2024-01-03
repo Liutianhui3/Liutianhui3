@@ -1,4 +1,4 @@
 <h2 align="center">Hi 👋, I'm Liutianhui 🦄</h2>
 
-[![This is me](https://readme-typing-svg.herokuapp.com/?size=30&color=15485F&center=true&vCenter=true&width=1400&lines=%F0%9F%92%A1+%E4%BD%A0%E7%9C%8B%E5%88%B0%EF%BC%8C%E4%BD%A0%E6%83%B3%E7%9C%8B%E5%88%B0%E7%9A%84%EF%BC%9B%E4%BD%A0%E5%90%AC%E5%88%B0%EF%BC%8C%E4%BD%A0%E6%83%B3%E5%90%AC%E5%88%B0%E7%9A%84%EF%BC%9B%E4%BD%A0%E7%9B%B8%E4%BF%A1%EF%BC%8C%E4%BD%A0%E6%83%B3%E7%9B%B8%E4%BF%A1%E7%9A%84%EF%BC%81)](https://git.io/typing-svg)
+[![This is me](https://readme-typing-svg.herokuapp.com/?size=30&color=15485F&center=true&vCenter=true&width=1400&lines=%F0%9F%92%A1+%E5%85%BB%E5%A4%A9%E5%9C%B0%E6%AD%A3%E6%B0%94%EF%BC%8C%E6%B3%95%E5%8F%A4%E4%BB%8A%E5%AE%8C%E4%BA%BA)](https://git.io/typing-svg)
 
