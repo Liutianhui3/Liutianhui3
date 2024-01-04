@@ -70,3 +70,13 @@
 </div>
 <!--Trap--:)-->
 <a href="https://github.com/404"><img src="https://blog.17lai.site/medias_webp/line.webp"></a>
+
+### 🎸 最近听的音乐:  
+
+<div align="center">
+ 
+ [![Netease recently played](https://netease-recent-profile.vercel.app/?id=471445890&title=%E6%9C%80%E8%BF%91%E5%9C%A8%E5%90%AC&width=350)](https://music.163.com/#/user/home?id=471445890)
+</div>
+
+<!--Trap--:)-->
+<a href="https://github.com/404"><img src="https://blog.17lai.site/medias_webp/line.webp"></a>
