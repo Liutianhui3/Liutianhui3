@@ -34,7 +34,17 @@
 
 <!--Trap--:)-->
 <a href="https://github.com/404"><img src="https://blog.17lai.site/medias_webp/line.webp"></a>
-  ### 🌈 Languages and Tools:
+  ### 🧑‍💻 自我介绍:
+
+- 职业🧑‍💼：𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕
+- 现居🏠：JiangSu / SuZhou
+- 单位🏢：Shanghai Ranking
+- 爱好🥰：☕️ 𝘾𝙤𝙛𝙛𝙚𝙚 𝙡𝙤𝙫𝙚𝙧
+
+
+<!--Trap--:)-->
+<a href="https://github.com/404"><img src="https://blog.17lai.site/medias_webp/line.webp"></a>
+  ### 🌈 语言和工具:
   <a href="https://github.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a>
   <a href="https://apple.com" target="_blank"> <img src="https://raw.githubusercontent.com/eryajf/tu/main/img/image_20221012_094215.png" alt="macbookpro" width="43" height="43"/> </a>
 <a href="https://www.google.com/chrome/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="chrome" width="40" height="40"/> </a>
@@ -61,7 +71,7 @@
     <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 <!--Trap--:)-->
 <a href="https://github.com/404"><img src="https://blog.17lai.site/medias_webp/line.webp"></a>
-  ### 💻 Stats:
+  ### 📉 统计:
 <div align="center">
 <img align="center" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=Liutianhui3&include_orgs=true&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eryajf&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
