@@ -1,6 +1,6 @@
 <h2>
  Hi 👋, I'm Liutianhui 🦄
-<img align='right' src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F+Liutianhui3%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=awesomelists.svg&icon_color=%230AFFAB&title=visitor&edge_flat=true" /> 
+<img align='right' src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLiutianhui3%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=awesomelists.svg&icon_color=%230AFFAB&title=visitor&edge_flat=true" /> 
 </h2>
 
 [![This is me](https://readme-typing-svg.herokuapp.com/?font=Ma+Shan+Zheng&size=30&color=15485F&center=true&vCenter=true&width=1400&lines=%F0%9F%92%A1+%E5%85%BB%E5%A4%A9%E5%9C%B0%E6%AD%A3%E6%B0%94%EF%BC%8C%E6%B3%95%E5%8F%A4%E4%BB%8A%E5%AE%8C%E4%BA%BA)](https://git.io/typing-svg)
