@@ -32,12 +32,15 @@
 <!--Trap--:)-->
 <a href="https://github.com/404"><img src="https://blog.17lai.site/medias_webp/line.webp"></a>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liutianhui3&layout=compact&langs_count=8" />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Liutianhui3&count_private=true&show_icons=true&theme=ambient_gradient" />
-
 🤗 &nbsp;你好~ 我是 [**Henery**]()，a Front End Developer.
 
 🌈 &nbsp;My Skill | 我的技术: HTML, CSS, Javascript, Typescript, Vue, React, ReactNative...    
+
+<!--Trap--:)-->
+<a href="https://github.com/404"><img src="https://blog.17lai.site/medias_webp/line.webp"></a>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Liutianhui3&count_private=true&show_icons=true&theme=ambient_gradient" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liutianhui3&layout=compact&langs_count=8" />
 
 <!--Trap--:)-->
 <a href="https://github.com/404"><img src="https://blog.17lai.site/medias_webp/line.webp"></a>
