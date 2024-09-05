@@ -88,7 +88,7 @@
 
 <div align="center">
  
- [![Netease recently played](https://netease-recent-profile.vercel.app/?id=471445890&title=%E6%9C%80%E8%BF%91%E5%9C%A8%E5%90%AC&width=350)](https://music.163.com/#/user/home?id=471445890)
+ [![Netease recently played](https://netease-recent-profile.vercel.app/?id=471445890&size=350&theme=card&title=最近在听&show_rainbow=1&themeColor=514def&mode=light)](https://netease-recent-profile.vercel.app/?id=471445890&size=350&theme=card&title=最近在听&show_rainbow=1&themeColor=514def&mode=light)
 </div>
 
 <!--Trap--:)-->
