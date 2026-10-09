@@ -26,10 +26,8 @@
 </div>
 <h2>
  𝑯𝒊 👋, 𝑰'𝒎 𝑳𝒊𝒖𝒕𝒊𝒂𝒏𝒉𝒖𝒊 🦄
-<img align='right' src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLiutianhui3%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=awesomelists.svg&icon_color=%230AFFAB&title=visitor&edge_flat=true" /> 
 </h2>
 <!--Trap--:)-->
-<a href="https://github.com/404"><img src="https://blog.17lai.site/medias_webp/line.webp"></a>
   ### 🧑‍💻 自我介绍:
 
 - 职业🧑‍💼：𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕
