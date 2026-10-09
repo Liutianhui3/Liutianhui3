@@ -27,7 +27,7 @@
 <h2>
  𝑯𝒊 👋, 𝑰'𝒎 𝑳𝒊𝒖𝒕𝒊𝒂𝒏𝒉𝒖𝒊 🦄
 </h2>
-<a href="https://github.com/404"><img src="https://blog.17lai.site/medias_webp/line.webp"></a>
+
   ### 🧑‍💻 自我介绍:
 
 - 职业🧑‍💼：𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕
